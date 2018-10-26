@@ -1,3 +1,4 @@
 ﻿  pch.cpp
   MenuConsolaGrafico.cpp
-  MenuConsolaGrafico.vcxproj -> C:\Users\steev\Desktop\MenuConsolaGrafico\MenuGrafico\Debug\MenuConsolaGrafico.exe
+c:\users\guill\desktop\menugrafico\menuconsolagrafico\menuconsolagrafico.cpp(357): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MenuConsolaGrafico.vcxproj -> C:\Users\Guill\Desktop\MenuGrafico\Debug\MenuConsolaGrafico.exe
